@@ -26,7 +26,7 @@ To set up the project, follow these steps:
 
    ```
    git clone https://github.com/tomasi001/get-privy-access-token
-   cd privy-app
+   cd get-privy-access-token
    ```
 
 2. Install the dependencies:
