@@ -30,9 +30,12 @@ To set up the project, follow these steps:
    ```
 
 2. Install the dependencies:
+
    ```
    npm install
    ```
+
+3. Add Privy App Id to .env
 
 ## Usage
 
