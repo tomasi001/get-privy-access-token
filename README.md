@@ -25,7 +25,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/privy-app.git
+   git clone https://github.com/tomasi001/get-privy-access-token
    cd privy-app
    ```
 
