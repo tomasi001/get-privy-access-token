@@ -37,6 +37,12 @@ To set up the project, follow these steps:
 
 3. Add Privy App Id to .env
 
+4. Export Env Variables
+
+```
+set -o allexport; source .env; set +o allexport
+```
+
 ## Usage
 
 To use the Privy App:
